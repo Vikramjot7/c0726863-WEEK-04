@@ -10,7 +10,7 @@ namespace C0726863_week_04
     {
         class Village
         
-        {
+        
         // Node is an ADT
          // what kind of DATA do we need in a NODE?
         public Village nextVillage;
@@ -18,5 +18,5 @@ namespace C0726863_week_04
         public bool isAstrildeHere = false;
     }
 }
-        }
+        
     
